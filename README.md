@@ -10,7 +10,7 @@ ABOUT ME:
 
 - 💻 My current project:
 - - - - - BloodOfThrone ⚔️ <2DPixel Combat Game> - Work with my colleagues
-- - - - - Lebensfreuder 🌱 <2DPixel Farmin Game> - Work alone
+- - - - - Lebensfreude  🌱 <2DPixel Farming Game> - Work alone
 - 🎯 My target this year 2024: Internship in IT field + ERASMUS scholarship
 
 <!---
