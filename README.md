@@ -1,13 +1,13 @@
 ABOUT ME:
-- 👀 Hello, you can call me Thang
+- 👀 Hello, my name is Thang
 - 🎓 Current education: Bachelor's Degree
 - 🎮 Current field: Game Development
 - 🏫 Current institution: Vilnius Business College
-
+<br>
 - 👨🏻‍💻 Specialization: Programming + Pixel Graphics Designing
 - 🌟 My strongest programming languages: C++/C#
 - ⭐ Other programming languages: Java/HTML5/CSS/Kotlin/Python/MSever/SQL
-
+<br>
 - 💻 My current project:
 - - - - - BloodOfThrone ⚔️ <2DPixel Combat Game> - Work with my colleagues
 - - - - - Lebensfreude  🌱 <2DPixel Farming Game> - Work alone
