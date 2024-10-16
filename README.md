@@ -13,9 +13,8 @@ ABOUT ME:
 <br>
 
 - 💻 My current project:
-- - - - - BloodOfThrone ⚔️ <2DPixel Combat Game> - Work with my colleagues
-- - - - - Lebensfreude  🌱 <2DPixel Farming Game> - Work alone
-- 🎯 My target this year 2024: Internship in IT field + ERASMUS scholarship
+- - - - - BloodOfThrone ⚔️ <2DPixel Combat Game> - Teamwork Project
+- - - - - Lebensfreude  🌱 <2DPixel Farming Game> - Own Project
 
 <!---
 DemonDrac05/DemonDrac05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
