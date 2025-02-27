@@ -1,14 +1,14 @@
 ABOUT ME:
 - 👀 Hello, my name is Thang
-- 🎓 Current education: Bachelor's Degree
+- 🎓 Current education: Bachelor of Computing
 - 🎮 Current field: Game Development
 - 🏫 Current institution: Vilnius Business College
 
 <br>
 
-- 👨🏻‍💻 Specialization: Programming + Pixel Graphics Designing
-- 🌟 My strongest programming languages: C++/C#
-- ⭐ Other programming languages: Java/HTML5/CSS/Kotlin/Python/MSever/SQL
+- 👨🏻‍💻 Specialization: Game Programming + UI Design
+- 🌟 My main programming languages: C#
+- ⭐ Other programming languages: C++/Java/HTML5/CSS
 
 <br>
 
