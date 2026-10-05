@@ -1,22 +1,18 @@
-ABOUT ME:
-- 👀 Hello, my name is Thang
-- 🎓 Current education: Bachelor of Computing
-- 🎮 Current field: Game Development
-- 🏫 Current institution: Vilnius Business College
+### Hi, I'm Thang 👋
+Gameplay programmer focused on **Unreal Engine 5 and C++**.
 
-<br>
+- 🎮 Building **[Crescentia](https://github.com/DemonDrac05/Crescentia)**: a 3D farming life-sim
+  with procedurally generated farms, written C++-first in UE5
+- 💼 Studio and freelance experience, including a UE paint-combat FPS prototype with elemental combos
+- 🎓 Bachelor of Computing, Vilnius Business College
+- 🔭 Open to gameplay programmer roles
 
-- 👨🏻‍💻 Specialization: Game Programming + UI Design
-- 🌟 My main programming languages: C#
-- ⭐ Other programming languages: C++/Java/HTML5/CSS
+**Tech:** C++ · Unreal Engine 5 · Blueprints · C# · Git
 
-<br>
+| Project | Description | Team |
+|---|---|---|
+| [Crescentia](https://github.com/DemonDrac05/Crescentia) | 3D farming sim, procedural world generation (C++) | Solo |
+| BloodOfThrone | 2D pixel combat game | Team |
+| Lebensfreude | 2D pixel farming game | Solo |
 
-- 💻 My current project:
-- - - - - BloodOfThrone ⚔️ <2DPixel Combat Game> - Teamwork Project
-- - - - - Lebensfreude  🌱 <2DPixel Farming Game> - Own Project
-
-<!---
-DemonDrac05/DemonDrac05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 [LinkedIn](https://www.linkedin.com/in/thang-phan-3b702321b) · thangphanfk@gmail.com
