@@ -1,18 +1,19 @@
 ### Hi, I'm Thang 👋
-Gameplay programmer focused on **Unreal Engine 5 and C++**.
+Gameplay programmer working in **C++ and Unreal Engine 5**, now also learning embedded C++.
 
-- 🎮 Building **[Crescentia](https://github.com/DemonDrac05/Crescentia)**: a 3D farming life-sim
-  with procedurally generated farms, written C++-first in UE5
-- 💼 Studio and freelance experience, including a UE paint-combat FPS prototype with elemental combos
-- 🎓 Bachelor of Computing, Vilnius Business College
-- 🔭 Open to gameplay programmer roles
+- 🎮 Building **[Hollowfrost](https://github.com/DemonDrac05/Hollowfrost)**: a co-op survival horror game on a quarantined Nordic island, written C++-first in UE5 with deterministic, seed-based world generation
+- 💼 Contract work: C++ gameplay systems for a UE5 paint-combat FPS with elemental combos
+- 🔧 Learning embedded C++ on ESP32: [simon-esp32](https://github.com/DemonDrac05/simon-esp32), a Simon game built as a non-blocking state machine
+- 🎓 Game Development graduate, Vilnius Business College
+- 🔭 Open to C++ roles in games and beyond: gameplay, engine, embedded
 
-**Tech:** C++ · Unreal Engine 5 · Blueprints · C# · Git
+**Tech:** C++ · Unreal Engine 5 · Blueprints · C# · Unity · Git · ESP32 (Arduino)
 
-| Project | Description | Team |
+| Project | What it is | Team |
 |---|---|---|
-| [Crescentia](https://github.com/DemonDrac05/Crescentia) | 3D farming sim, procedural world generation (C++) | Solo |
+| [Hollowfrost](https://github.com/DemonDrac05/Hollowfrost) | Co-op survival horror, procedural world generation (C++, UE5) | Solo |
+| [simon-esp32](https://github.com/DemonDrac05/simon-esp32) | Simon memory game on ESP32, non-blocking state machine (C++) | Solo |
 | BloodOfThrone | 2D pixel combat game | Team |
 | Lebensfreude | 2D pixel farming game | Solo |
 
-📫 [LinkedIn](https://www.linkedin.com/in/thang-phan-3b702321b) · thangphanfk@gmail.com
+📫 [LinkedIn](https://www.linkedin.com/in/thangphan-gamedev) · thangphanfk@gmail.com
